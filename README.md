@@ -2,7 +2,7 @@
 
 Case Study Template
 # Assistive Technology - Envision Smart Glasses
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fshop.letsenvision.com%2Fproducts%2Fglasses-read&psig=AOvVaw2G28SmUdzpOXV8_cswZmRY&ust=1726685287453000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj2wIzSyogDFQAAAAAdAAAAABAE)
+![alt text](https://attoday.b-cdn.net/wp-content/uploads/2024/01/Envision-Glasses-V2.5.jpg)
 
 ## Overview and Origin
 
