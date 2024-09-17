@@ -16,7 +16,7 @@ Case Study Template
 > Karthik Mahadevan and Karthik Kannan
 
 * How did the idea for the company (or project) come about?
-> Karthik Mahadevan was invited to a school for the blind in India to speak about design. When the students were asked about a problem they could solve, the answer was obvious they wanted to be more independent. They want to be able to perform day-to-day activities on their own.
+> Karthik Mahadevan was invited to a school for the blind in India to speak about design. When the students were asked about a problem they could solve, the answer was obvious they wanted to be more independent. They wanted to perform day-to-day activities on their own.
 
 * How is the company funded? How much funding have they received?
 > Envision is a private company that has received funding through a pre-seed and seed round. In the seed round, they raised 1.5 million euros from seven investors.
@@ -24,7 +24,7 @@ Case Study Template
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
-> They provide solutions for the blind and visually impaired to be more independent in accessing information in their surrounding area using their AI-powered app and smart glasses.
+> Envision allows the blind and visually impaired to be more independent by using their AI-powered app and smart glasses to access information around them. 
 
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
