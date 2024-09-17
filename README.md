@@ -7,14 +7,13 @@ Case Study Template
 ## Overview and Origin
 
 * Name of company
-Envision
+> Envision Glasses
 
 * When was the company incorporated?
-2017
+> 2017
 
 * Who are the founders of the company?
-Karthik Mahadevan and Karthik Kannan
-![alt text](<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moneycontrol.com%2Fnews%2Ftrends%2Fmeet-karthik-mahadevan-and-karthik-kannan-indian-origin-founders-of-envision-a-company-making-smart-glasses-for-vision-impaired-8392921.html&psig=AOvVaw2H-Rz4UzPZqR5wqZCPnCbN&ust=1726685456209000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiui9_SyogDFQAAAAAdAAAAABAE>)
+> Karthik Mahadevan and Karthik Kannan
 
 * How did the idea for the company (or project) come about?
 > Karthik Mahadevan was invited to a school for the blind in India to speak about design. When the students were asked about a problem they could solve, the answer was obvious they wanted to be more independent. They want to be able to perform day-to-day activities on their own.
