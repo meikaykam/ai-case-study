@@ -62,7 +62,7 @@ Case Study Template
 > What are the top 5 features? 
 
 * How is your company performing relative to competitors in the same field?
-> Compared to other assistive smart glasses in the market, the cost to purchase Envision smart glasses ranges on the lower end compared to their competitors. Envision’s premium glasses are priced at $3499 while their competitors range between ?$2950 and $4995.
+> Compared to other assistive smart glasses in the market, the cost to purchase Envision smart glasses ranges on the lower end compared to their competitors. Envision’s premium glasses are priced at $3499 while their competitors range between $2950 and $4995.
 
 ## Recommendations
 
