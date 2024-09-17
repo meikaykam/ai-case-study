@@ -43,18 +43,18 @@ Case Study Template
 ## Landscape
 
 * What field is the company in?
-> Envision falls under assistive software technology. Their glasses use machine learning as an assistive tool for the blind and visually impaired
+> Envision falls under assistive software technology. Their glasses use machine learning as an assistive tool for the blind and visually impaired.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* What have been the major trends and innovations of this field over the last 5-10 years?
 > ChatGPT and products like ChatGPT that use large language models. 
 
 * What are the other major companies in this field?
-> Some of the major companies are Meta’s smart glasses and Google Glass. Although Google shut down their Google Glass project twice, Envision partnered with Google Glass and integrated their AI-powered software with Google Glass’s upgraded hardware. 
+> Some of the major companies are Orm, NuEyes, AceSight, and IrisVision.
 
 ## Results
 
 * What has been the business impact of this company so far?
->In 2023, Envision received 1.5 million euros in funding. The company used the funds to scale up and support its users globally. 
+> In 2023, Envision received 1.5 million euros in funding. The company used the funds to scale up and support its users globally. 
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 > How often do their users request an Aira agent?
