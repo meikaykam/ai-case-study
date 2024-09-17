@@ -2,7 +2,7 @@
 
 Case Study Template
 # Assistive Technology - Envision Smart Glasses
-(![alt text](<https://www.google.com/url?sa=i&url=https%3A%2F%2Fshop.letsenvision.com%2Fproducts%2Fglasses-read&psig=AOvVaw2G28SmUdzpOXV8_cswZmRY&ust=1726685287453000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj2wIzSyogDFQAAAAAdAAAAABAE>))
+![alt text](<https://www.google.com/url?sa=i&url=https%3A%2F%2Fshop.letsenvision.com%2Fproducts%2Fglasses-read&psig=AOvVaw2G28SmUdzpOXV8_cswZmRY&ust=1726685287453000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOj2wIzSyogDFQAAAAAdAAAAABAE>)
 
 ## Overview and Origin
 
@@ -14,7 +14,7 @@ Envision
 
 * Who are the founders of the company?
 Karthik Mahadevan and Karthik Kannan
-(![alt text](<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moneycontrol.com%2Fnews%2Ftrends%2Fmeet-karthik-mahadevan-and-karthik-kannan-indian-origin-founders-of-envision-a-company-making-smart-glasses-for-vision-impaired-8392921.html&psig=AOvVaw2H-Rz4UzPZqR5wqZCPnCbN&ust=1726685456209000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiui9_SyogDFQAAAAAdAAAAABAE>))
+![alt text](<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moneycontrol.com%2Fnews%2Ftrends%2Fmeet-karthik-mahadevan-and-karthik-kannan-indian-origin-founders-of-envision-a-company-making-smart-glasses-for-vision-impaired-8392921.html&psig=AOvVaw2H-Rz4UzPZqR5wqZCPnCbN&ust=1726685456209000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiui9_SyogDFQAAAAAdAAAAABAE>)
 
 * How did the idea for the company (or project) come about?
 > Karthik Mahadevan was invited to a school for the blind in India to speak about design. When the students were asked about a problem they could solve, the answer was obvious they wanted to be more independent. They want to be able to perform day-to-day activities on their own.
@@ -55,7 +55,7 @@ Karthik Mahadevan and Karthik Kannan
 ## Results
 
 * What has been the business impact of this company so far?
-> In 2023, Envision received 1.5 million euros in funding. The company used the funds to scale up and support its users globally. 
+>In 2023, Envision received 1.5 million euros in funding. The company used the funds to scale up and support its users globally. 
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 > How often do their users request an Aira agent?
@@ -82,12 +82,12 @@ Karthik Mahadevan and Karthik Kannan
 ---
 
 ## Addendum
-* 1. ([<Envision raises €1.5 Million to scale their award-winning AI powered app and smart glasses solutions for the blind and visually impaired.>](<https://www.letsenvision.com/blog/envision-raises-eu1-5-million>))
-* 2. ([<Karthik Mahadevan of Envision On His Big Idea That Might Change The World>](<https://medium.com/authority-magazine/karthik-mahadevan-of-envision-on-his-big-idea-that-might-change-the-world-c06f5d4c976b>))
-* 3. ([<Envision Crunchbase>](<https://www.crunchbase.com/organization/envision-4/company_financials>))
-* 4. ([<YouTube: The Envision Glasses Just Got Better!! Now With ChatGPT And AI! BIG UPDATES!!>](<https://www.youtube.com/watch?v=6f8NfTwSwvw&t=643s&ab_channel=TheBlindLife>))
-* 5. ([<YouTube: OrCam READ 3 - The Versatile, Easy To Use, AI Powered Device That Reads To You!>](<https://www.youtube.com/watch?v=qb2CVuZ2aaM&ab_channel=TheBlindLife>))
-* 6. ([<OrCam My Eye 3 Pro website>](<https://www.orcam.com/en-us/orcam-myeye-3-pro>))
-* 7. ([<Envision Announces AI-Powered Smart Glasses For The Blind And Visually Impaired>](<https://www.letsenvision.com/blog/envision-announces-ai-powered-smart-glasses-for-the-blind-and-visually-impaired>))
-* 8. ([<Envision Glasses Edition>](<https://www.letsenvision.com/glasses/home>))
-* 9. ([<Top 5 Electronic Glasses for the Blind and Visually Impaired>](<https://irisvision.com/electronic-glasses-for-the-blind-and-visually-impaired/?srsltid=AfmBOorgQUvqj1_f6UezIxkHagILTrTWDvjLwg-ju-YmYRLTqmPz5VSF>))
+* [<Envision raises €1.5 Million to scale their award-winning AI powered app and smart glasses solutions for the blind and visually impaired.>](<https://www.letsenvision.com/blog/envision-raises-eu1-5-million>)
+* [<Karthik Mahadevan of Envision On His Big Idea That Might Change The World>](<https://medium.com/authority-magazine/karthik-mahadevan-of-envision-on-his-big-idea-that-might-change-the-world-c06f5d4c976b>)
+* [<Envision Crunchbase>](<https://www.crunchbase.com/organization/envision-4/company_financials>)
+* [<YouTube: The Envision Glasses Just Got Better!! Now With ChatGPT And AI! BIG UPDATES!!>](<https://www.youtube.com/watch?v=6f8NfTwSwvw&t=643s&ab_channel=TheBlindLife>)
+* [<YouTube: OrCam READ 3 - The Versatile, Easy To Use, AI Powered Device That Reads To You!>](<https://www.youtube.com/watch?v=qb2CVuZ2aaM&ab_channel=TheBlindLife>)
+* [<OrCam My Eye 3 Pro website>](<https://www.orcam.com/en-us/orcam-myeye-3-pro>)
+* [<Envision Announces AI-Powered Smart Glasses For The Blind And Visually Impaired>](<https://www.letsenvision.com/blog/envision-announces-ai-powered-smart-glasses-for-the-blind-and-visually-impaired>)
+* [<Envision Glasses Edition>](<https://www.letsenvision.com/glasses/home>)
+* [<Top 5 Electronic Glasses for the Blind and Visually Impaired>](<https://irisvision.com/electronic-glasses-for-the-blind-and-visually-impaired/?srsltid=AfmBOorgQUvqj1_f6UezIxkHagILTrTWDvjLwg-ju-YmYRLTqmPz5VSF>)
