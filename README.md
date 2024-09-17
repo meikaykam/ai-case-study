@@ -81,12 +81,13 @@ Case Study Template
 ---
 
 ## Addendum
-* [<Envision raises €1.5 Million to scale their award-winning AI powered app and smart glasses solutions for the blind and visually impaired.>](<https://www.letsenvision.com/blog/envision-raises-eu1-5-million>)
-* [<Karthik Mahadevan of Envision On His Big Idea That Might Change The World>](<https://medium.com/authority-magazine/karthik-mahadevan-of-envision-on-his-big-idea-that-might-change-the-world-c06f5d4c976b>)
-* [<Envision Crunchbase>](<https://www.crunchbase.com/organization/envision-4/company_financials>)
+* [<Funding>](<https://www.letsenvision.com/blog/envision-raises-eu1-5-million>)
+* [<Karthik>](<https://medium.com/authority-magazine/karthik-mahadevan-of-envision-on-his-big-idea-that-might-change-the-world-c06f5d4c976b>)
+* [<Crunchbase>](<https://www.crunchbase.com/organization/envision-4/company_financials>)
 * [<YouTube: The Envision Glasses Just Got Better!! Now With ChatGPT And AI! BIG UPDATES!!>](<https://www.youtube.com/watch?v=6f8NfTwSwvw&t=643s&ab_channel=TheBlindLife>)
 * [<YouTube: OrCam READ 3 - The Versatile, Easy To Use, AI Powered Device That Reads To You!>](<https://www.youtube.com/watch?v=qb2CVuZ2aaM&ab_channel=TheBlindLife>)
 * [<OrCam My Eye 3 Pro website>](<https://www.orcam.com/en-us/orcam-myeye-3-pro>)
-* [<Envision Announces AI-Powered Smart Glasses For The Blind And Visually Impaired>](<https://www.letsenvision.com/blog/envision-announces-ai-powered-smart-glasses-for-the-blind-and-visually-impaired>)
-* [<Envision Glasses Edition>](<https://www.letsenvision.com/glasses/home>)
+* [<Glasses>](<https://www.letsenvision.com/blog/envision-announces-ai-powered-smart-glasses-for-the-blind-and-visually-impaired>)
+* [<Editions>](<https://www.letsenvision.com/glasses/home>)
 * [<Top 5 Electronic Glasses for the Blind and Visually Impaired>](<https://irisvision.com/electronic-glasses-for-the-blind-and-visually-impaired/?srsltid=AfmBOorgQUvqj1_f6UezIxkHagILTrTWDvjLwg-ju-YmYRLTqmPz5VSF>)
+* [<WHO>](<https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment>)
