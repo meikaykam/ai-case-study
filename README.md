@@ -1,8 +1,9 @@
 # ai-case-study
 
-Case Study Template
+
 # Assistive Technology - Envision Smart Glasses
 ![alt text](https://attoday.b-cdn.net/wp-content/uploads/2024/01/Envision-Glasses-V2.5.jpg)
+
 
 ## Overview and Origin
 
@@ -21,24 +22,25 @@ Case Study Template
 * How is the company funded? How much funding have they received?
 > Envision is a private company that has received funding through a pre-seed and seed round. In the seed round, they raised 1.5 million euros from seven investors.
 
+
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
 > Envision allows the blind and visually impaired to be more independent by using their AI-powered app and smart glasses to access information around them. 
 
-
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
-> The blind and visually impaired. 
+> The blind and visually impaired. There roughly 1 billion people that blind and visually impaired people around the world. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-> Unlike their competitor, the OrCam3, Envision’s smart glasses offer a hands-free experience. Rather than using a handheld device to hover over a body of text, the user can tap the side of the smart glasses and prompt it to start scanning text within the camera’s view. 
+> Unlike their competitor, like the OrCam, Envision’s smart glasses offer a hands-free and light-weight experience. Rather than using a handheld device to hover over a body of text, the user can tap the side of the smart glasses and prompt it to start scanning text within the camera’s line of sight.
 
-> Ask Evision has ChatGPT integration to describe an image that the user took. It allows the user to interact with the glasses and ask questions.
+> The user can "Ask Evision" using ChatGPT integration to describe an image taken in real-time; it allows the user to interact with the glasses and ask related questions.
 
-> Envision also launched a new feature “Call an Aira agent”. The user can speak with a live person if the AI-powered solutions cannot assist with their request. 
+> Envision also launched a new feature “Call an Aira agent”. The user can speak with a live Aira agent - also a company founded for the blind community - if the AI-powered solutions cannot assist with their request. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-> Envision’s smart glasses use facial recognition, and image recognition powered by ChatGPT to describe an image and read text in sixty languages. 
+> Envision uses technology like image and voice recognition to do the following: Instant Text, Scan Text, Batch Scan, Call an Ally, Call Aira, Describe Scene, Detect Light, Recognise Cash, Detect Colors, Find People, Find Objects, Teach a Face and Explore.
+
 
 ## Landscape
 
@@ -46,10 +48,11 @@ Case Study Template
 > Envision falls under assistive software technology. Their glasses use machine learning as an assistive tool for the blind and visually impaired.
 
 * What have been the major trends and innovations of this field over the last 5-10 years?
-> ChatGPT and products like ChatGPT that use large language models. 
+> ChatGPT and products like ChatGPT that use large language models, voice recognition, image recognition, and facial recognition. 
 
 * What are the other major companies in this field?
-> Some of the major companies are Orm, NuEyes, AceSight, and IrisVision.
+> Some of the major companies in the same field are Orm, NuEyes, AceSight, and IrisVision. They are all assistive smart glasses for the blind and visually impaired. The use case is similar and uses AI to scan and read text in an image. 
+
 
 ## Results
 
@@ -57,12 +60,14 @@ Case Study Template
 > In 2023, Envision received 1.5 million euros in funding. The company used the funds to scale up and support its users globally. 
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-> How often do their users request an Aira agent?
-> Out of their three Envision Glasses Edition, which one is most popular?  
-> What are the top 5 features? 
+> How often do their users request an Aira agent? 
+> Out of the three Envision Glasses Edition, which one is most popular?  
+> What are the top 5 used features? 
+> How often are the glasses used?
 
 * How is your company performing relative to competitors in the same field?
 > Compared to other assistive smart glasses in the market, the cost to purchase Envision smart glasses ranges on the lower end compared to their competitors. Envision’s premium glasses are priced at $3499 while their competitors range between $2950 and $4995.
+
 
 ## Recommendations
 
@@ -78,7 +83,9 @@ Case Study Template
 * Why are these technologies appropriate for your solution?
 > We can load data on what the street lights should look like when it’s safe to cross or what the street lights should look like when it’s not. This is an appropriate solution because it uses machine learning to determine if an image with a street light indicates whether it is safe for the user to cross. 
 
+
 ---
+
 
 ## Addendum
 * [Envision raises 1.5 million euros](https://www.letsenvision.com/blog/envision-raises-eu1-5-million)
@@ -91,3 +98,4 @@ Case Study Template
 * [Envision Glasses Editions](https://www.letsenvision.com/glasses/home)
 * [Top 5 Electronic Glasses for the Blind and Visually Impaired](https://irisvision.com/electronic-glasses-for-the-blind-and-visually-impaired/?srsltid=AfmBOorgQUvqj1_f6UezIxkHagILTrTWDvjLwg-ju-YmYRLTqmPz5VSF)
 * [World Health Organization: Blindness and vision impairement](https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment)
+* [Smart glasses’ latest upgrade provides succinct AI-powered scene descriptions](https://attoday.co.uk/smart-glasses-latest-upgrade-provides-succinct-ai-powered-scene-descriptions/)
