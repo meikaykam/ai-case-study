@@ -34,12 +34,12 @@
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
 > Unlike their competitor, like the OrCam, Envision’s smart glasses offer a hands-free and light-weight experience. Rather than using a handheld device to hover over a body of text, the user can tap the side of the smart glasses and prompt it to start scanning text within the camera’s line of sight.
 
-> The user can "Ask Evision", using ChatGPT integration, to describe an image taken in real-time; it allows the user to interact with the glasses and ask related questions.
+> The user can "Ask Envision", using ChatGPT integration, to describe an image taken in real-time; it allows the user to interact with the glasses and ask related questions.
 
 > Envision also launched a new feature, “Call an Aira agent”. The user can speak with a live Aira agent - also a company founded for the blind community - if the AI-powered solutions cannot assist with their request. 
 
 **Which technologies are they currently using, and how are they implementing them?**
-> Envision uses assistive technology and AI like image and voice recognition to do the following: instant text, scan text, batch scan, Call an ally, Call Aira, describe scene, recognise cash, detect colors, find people, and find Objects.
+> Envision uses assistive technology and AI like image and voice recognition to do the following: Instant Text, Scan Text, Batch Scan, Call an Ally, Call Aira, Describe Scene, Recognise Cash, Detect Colors, Find People, and Find Objects.
 
 
 ## Landscape
@@ -57,7 +57,7 @@
 ## Results
 
 **What has been the business impact of this company so far?**
-> Envision glasses have made a positive impact on the blind and visually impaired community. It's obvious that the blind and visually impaired are unable to complete simple tasks on their own. Envision glasses gives the blind and visually impaired ability to go about their day and complete simple tasks like read a line of text with speed and ease. The glasses also allow users to accomplish difficult tasks like assembling a tv or painting the bedroom walls with just a call that is tapped into the camera on the glasses. 
+> Envision glasses have made a positive impact on the blind and visually impaired community. It's obvious that the blind and visually impaired are unable to complete simple tasks on their own. Envision glasses gives the blind and visually impaired the ability to go about their day and complete simple tasks like reading a line of text with speed and ease. The glasses also allow users to accomplish difficult tasks like assembling a TV or painting the bedroom walls with just a call that is tapped into the camera on the glasses. 
 
 **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 > * How often do their users request an Aira agent? 
@@ -66,7 +66,7 @@
 > * How often are the glasses used on a daily basis?
 
 **How is your company performing relative to competitors in the same field?**
-> I am unable to access the company's financials because Envision is a privately held company. Looking at the past year, Envision is doing well considering they raised 1.5 million euros in the seed round. They also partnered with Google Glass by integrating their interface with Google Glass's hardware. Their product and services are well thought our and tailored to meet the needs of a blind or visually impaired person. Envision’s premium edition glasses are priced competitively at $3499 while the cost of their competitors' glasses range between $2950 and $4995. 
+> I am unable to access the company's financials because Envision is a privately held company. Looking at the past year, Envision is doing well considering they raised 1.5 million euros in the seed round. They also partnered with Google Glass by integrating their interface with Google Glass's hardware. Their product and services are well thought out and tailored to meet the needs of a blind or visually impaired person. Envision’s premium edition glasses are priced competitively at $3499 while the cost of their competitors' glasses ranges between $2950 and $4995. 
 
 
 ## Recommendations
@@ -75,7 +75,7 @@
 > I would suggest a feature that allows the user to take an image of the street lights before crossing. The glasses will scan the surrounding area for street lights and emit a sound or provide clear directions to the user that it is safe to cross the street. 
 
 **Why do you think that offering this product or service would benefit the company?**
-> The goal of the product is to allow the user to be more independent. One of the biggest challenges I see with blind people is not knowing when to cross the street. I remember crossing a busy street in Chinatown, NY and a blind man was standing at the corner of the street next to me. When the street lights turned white, everyone started walking except for him. I gave him my shoulder and told him it was safe to cross the street. In that moment, I wondered if he would have stood there until someone went up to him and helped him.
+> The goal of the product is to allow the user to be more independent. One of the biggest challenges I see with blind people is not knowing when to cross the street. I remember crossing a busy street in Chinatown, NY and a blind man was standing at the corner of the street next to me. When the street lights turned white, everyone started walking except for him. I gave him my shoulder and told him it was safe to cross the street. At that moment, I wondered if he would have stood there until someone goes up to him and helps him.
 
 **What technologies would this additional product or service utilize?**
 > This product will use a multimodal large language model with prompt engingeering. We will include the image and an appropriate text in the prompt and ask the MLLM if its safe to cross the street. 
