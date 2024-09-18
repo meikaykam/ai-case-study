@@ -57,7 +57,7 @@
 ## Results
 
 **What has been the business impact of this company so far?**
-> In 2023, Envision received 1.5 million euros in funding. The company used the funds to scale up and support its users globally. 
+> Envision glasses have made a positive impact on the blind and visually impaired community. It's obvious that the blind and visually impaired are unable to complete simple tasks on their own. Envision glasses gives the blind and visually impaired ability to go about their day and complete simple tasks like read a line of text with speed and ease. The glasses also allow users to accomplish difficult tasks like assembling a tv or painting the bedroom walls with just a call that is tapped into the camera on the glasses. 
 
 **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 > * How often do their users request an Aira agent? 
@@ -78,10 +78,10 @@
 > The goal of the product is to allow the user to be more independent. One of the biggest challenges I see with blind people is not knowing when to cross the street. I remember crossing a busy street in Chinatown, NY and a blind man was standing at the corner of the street next to me. When the street lights turned white, everyone started walking except for him. I gave him my shoulder and told him it was safe to cross the street. In that moment, I wondered if he would have stood there until someone went up to him and helped him.
 
 **What technologies would this additional product or service utilize?**
-> This product will use a multimodal large language model with prompt engingeering. We can load data on what the street lights look like when it’s safe to cross and what the street lights look like when it’s not. The model can use the data to predict whether a new image of a street light is safe to cross the street.
+> This product will use a multimodal large language model with prompt engingeering. We will include the image and an appropriate text in the prompt and ask the MLLM if its safe to cross the street. 
 
 **Why are these technologies appropriate for your solution?**
-> This is an appropriate solution because it uses machine learning to determine if an image with a street light indicates whether it is safe for the user to cross. 
+> This is an appropriate solution because the time it takes to get an answer is quick. 
 
 
 ---
@@ -100,3 +100,4 @@
 * [World Health Organization: Blindness and vision impairement](https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment)
 * [Smart glasses’ latest upgrade provides succinct AI-powered scene descriptions](https://attoday.co.uk/smart-glasses-latest-upgrade-provides-succinct-ai-powered-scene-descriptions/)
 * [Multimodal Large Language Models (MLLMs) transforming Computer Vision](https://medium.com/@tenyks_blogger/multimodal-large-language-models-mllms-transforming-computer-vision-76d3c5dd267f)
+* [Customer Feedback](https://www.letsenvision.com/reviews)
