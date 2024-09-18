@@ -29,17 +29,17 @@
 > Envision allows the blind and visually impaired to be more independent by using their AI-powered app and smart glasses to access information around them. 
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
-> The blind and visually impaired. There roughly 1 billion people that blind and visually impaired people around the world. 
+> The blind and visually impaired. There are roughly 1 billion blind and visually impaired people around the world. 
 
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
 > Unlike their competitor, like the OrCam, Envision’s smart glasses offer a hands-free and light-weight experience. Rather than using a handheld device to hover over a body of text, the user can tap the side of the smart glasses and prompt it to start scanning text within the camera’s line of sight.
 
-> The user can "Ask Evision" using ChatGPT integration to describe an image taken in real-time; it allows the user to interact with the glasses and ask related questions.
+> The user can "Ask Evision", using ChatGPT integration, to describe an image taken in real-time; it allows the user to interact with the glasses and ask related questions.
 
-> Envision also launched a new feature “Call an Aira agent”. The user can speak with a live Aira agent - also a company founded for the blind community - if the AI-powered solutions cannot assist with their request. 
+> Envision also launched a new feature, “Call an Aira agent”. The user can speak with a live Aira agent - also a company founded for the blind community - if the AI-powered solutions cannot assist with their request. 
 
-**Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
-> Envision uses technology like image and voice recognition to do the following: Instant Text, Scan Text, Batch Scan, Call an Ally, Call Aira, Describe Scene, Detect Light, Recognise Cash, Detect Colors, Find People, Find Objects, Teach a Face and Explore.
+**Which technologies are they currently using, and how are they implementing them?**
+> Envision uses assistive technology and AI like image and voice recognition to do the following: instant text, scan text, batch scan, Call an ally, Call Aira, describe scene, recognise cash, detect colors, find people, and find Objects.
 
 
 ## Landscape
@@ -60,28 +60,28 @@
 > In 2023, Envision received 1.5 million euros in funding. The company used the funds to scale up and support its users globally. 
 
 **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
-> How often do their users request an Aira agent? 
-> Out of the three Envision Glasses Edition, which one is most popular?  
-> What are the top 5 used features? 
-> How often are the glasses used?
+> * How often do their users request an Aira agent? 
+> * Out of the three Envision Glasses Edition, which one is most popular?  
+> * What are the top 5 used features? 
+> * How often are the glasses used on a daily basis?
 
 **How is your company performing relative to competitors in the same field?**
-> Compared to other assistive smart glasses in the market, the cost to purchase Envision smart glasses ranges on the lower end compared to their competitors. Envision’s premium glasses are priced at $3499 while their competitors range between $2950 and $4995.
+> I am unable to access the company's financials because Envision is a privately held company. Looking at the past year, Envision is doing well considering they raised 1.5 million euros in the seed round. They also partnered with Google Glass by integrating their interface with Google Glass's hardware. Their product and services are well thought our and tailored to meet the needs of a blind or visually impaired person. Envision’s premium edition glasses are priced competitively at $3499 while the cost of their competitors' glasses range between $2950 and $4995. 
 
 
 ## Recommendations
 
-**If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
-> I suggest a street mode feature. The user would select that mode before crossing the street. The glasses will scan the surroundings for street lights and either emit a sound that it is safe to cross the street. 
+**If you were to advise the company, what products or services would you suggest they offer?**
+> I would suggest a feature that allows the user to take an image of the street lights before crossing. The glasses will scan the surrounding area for street lights and emit a sound or provide clear directions to the user that it is safe to cross the street. 
 
 **Why do you think that offering this product or service would benefit the company?**
-> The goal of the product is to allow the user to be more independent. One of the biggest challenges I see with blind people is not knowing when to cross the street. I remember crossing a busy street in Chinatown, NY and a blind man was standing at the corner of the street next to me. When the street lights turned white, everyone started walking except for him. I gave him my shoulder and told him it was safe to walk. I could not help but wonder, “Does he stand there and wait until he can get someone to assist him? How long does it take before he gets help? What if he is blind and mute?” 
+> The goal of the product is to allow the user to be more independent. One of the biggest challenges I see with blind people is not knowing when to cross the street. I remember crossing a busy street in Chinatown, NY and a blind man was standing at the corner of the street next to me. When the street lights turned white, everyone started walking except for him. I gave him my shoulder and told him it was safe to cross the street. In that moment, I wondered if he would have stood there until someone went up to him and helped him.
 
 **What technologies would this additional product or service utilize?**
-> This product will use supervised learning.
+> This product will use a multimodal large language model with prompt engingeering. We can load data on what the street lights look like when it’s safe to cross and what the street lights look like when it’s not. The model can use the data to predict whether a new image of a street light is safe to cross the street.
 
 **Why are these technologies appropriate for your solution?**
-> We can load data on what the street lights should look like when it’s safe to cross or what the street lights should look like when it’s not. This is an appropriate solution because it uses machine learning to determine if an image with a street light indicates whether it is safe for the user to cross. 
+> This is an appropriate solution because it uses machine learning to determine if an image with a street light indicates whether it is safe for the user to cross. 
 
 
 ---
@@ -99,3 +99,4 @@
 * [Top 5 Electronic Glasses for the Blind and Visually Impaired](https://irisvision.com/electronic-glasses-for-the-blind-and-visually-impaired/?srsltid=AfmBOorgQUvqj1_f6UezIxkHagILTrTWDvjLwg-ju-YmYRLTqmPz5VSF)
 * [World Health Organization: Blindness and vision impairement](https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment)
 * [Smart glasses’ latest upgrade provides succinct AI-powered scene descriptions](https://attoday.co.uk/smart-glasses-latest-upgrade-provides-succinct-ai-powered-scene-descriptions/)
+* [Multimodal Large Language Models (MLLMs) transforming Computer Vision](https://medium.com/@tenyks_blogger/multimodal-large-language-models-mllms-transforming-computer-vision-76d3c5dd267f)
